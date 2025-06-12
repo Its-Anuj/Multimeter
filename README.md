@@ -4,7 +4,7 @@ A program which displays voltage and current from a circuit in a 16x2 lcd displa
 ![image](https://github.com/user-attachments/assets/e640c5f0-3a69-4941-ae52-ef9b2e3d5fd8)
 
 [Project in TInkercard]
-([[TinkerCard Project]([https://www.tinkercad.com/things/fl6ZBQqMgD8-multimeter]())
+([[https://www.openai.com](https://www.tinkercad.com/things/fl6ZBQqMgD8-multimeter)]())
 
 
 ## Equiment Required
